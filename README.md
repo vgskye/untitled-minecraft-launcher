@@ -1,3 +1,12 @@
+# TODO list
+
+[ ] UI
+[x] Library fetching
+[x] MSA auth
+[x] asset fetching
+[ ] jarmods and stuff
+[ ] launch MC
+
 # Svelte-Kit + Vite
 
 This template should help get you started developing with Tauri and Svelte-Kit in Vite.
